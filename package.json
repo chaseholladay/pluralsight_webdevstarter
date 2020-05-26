@@ -1,0 +1,22 @@
+{
+  "name": "js_starter_code",
+  "version": "1.0.0",
+  "description": "JS_Starter_Code",
+  "main": "script.js",
+  "scripts": {
+    "test": "lite_server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaseholladay/pluralsight_webdevstarter.git"
+  },
+  "keywords": [
+    "starter_code"
+  ],
+  "author": "ChaseHolladay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaseholladay/pluralsight_webdevstarter/issues"
+  },
+  "homepage": "https://github.com/chaseholladay/pluralsight_webdevstarter#readme"
+}
