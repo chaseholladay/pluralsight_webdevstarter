@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/chaseholladay/pluralsight_webdevstarter/issues"
   },
-  "homepage": "https://github.com/chaseholladay/pluralsight_webdevstarter#readme"
+  "homepage": "https://github.com/chaseholladay/pluralsight_webdevstarter#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
