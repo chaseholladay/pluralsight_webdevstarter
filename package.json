@@ -21,5 +21,8 @@
   "homepage": "https://github.com/chaseholladay/pluralsight_webdevstarter#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
   }
 }
